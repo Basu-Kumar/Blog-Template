@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu&display=swap');
+
+:root {
+    --main-bg-color: blue;
+    --font1:'Ubuntu', sans-serif;
+    --font2:'Roboto', sans-serif;
+    
+}
+
+.max-width-1{
+    max-width: 70vw;
+}
+
+.max-width-2{
+    max-width: 50vw;
+}
+
+.m-auto{
+    margin: auto;
+}
+
+.form-input{
+    padding: 3px 4px;
+    padding-right: 0px;
+    border: 2px solid black;
+    font-size: 12px;
+    border-radius: 6px;
+    margin: 0px 5px;
+}
+
+.btn{
+    cursor: pointer;
+    padding: 3px 6px;
+    border: 2px solid black;
+    font-size: 12px;
+    border-radius: 6px;
+}
