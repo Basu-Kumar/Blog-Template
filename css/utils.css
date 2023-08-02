@@ -48,5 +48,26 @@
     font-size: 12px;
     border-radius: 6px;
     transition: all 0.1s ease-in;
+
+}
+
+.form-box input,textarea{
+    font-size: 13px;
+    width: 40vw;
+    margin: 8px 0px;
+    padding: 4px;
+
+}
+
+.logo-img{
+    display: inline-block;
+    height: 65px;
+    width: 82px;
+}
+
+.logo-img img{
+    height: 64px;
+    width: 80px;
+    overflow: hidden;
 }
 

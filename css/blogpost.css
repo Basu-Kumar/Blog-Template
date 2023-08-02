@@ -1,0 +1,9 @@
+ .blog-img{
+     height: 325px;
+    overflow: hidden;
+    margin-top: 15px;
+}  
+
+.blog-img img{
+    width: 100%;
+}
